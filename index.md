@@ -2,7 +2,7 @@
 # More detailed instructions (including how to fill these variables for an # online workshop) are available at https://carpentries.github.io/workshop-template/customization/index.html#yaml-header
 # Required variables
 venue: "Newcastle University"
-description: "Marjorie  Robinson Library Academic Skills Room"
+address: "Marjorie  Robinson Library Academic Skills Room"
 country: "gb"
 language: "en"
 latitude: "54.980168"
